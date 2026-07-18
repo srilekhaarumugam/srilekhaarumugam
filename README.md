@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ================= 1. HERO BANNER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sri%20Lekha%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%20%7C%20ECE%20Undergrade&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srilekha%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%20%20ECE%20Undergraduate&descAlignY=62&descSize=16" />
 
 <!-- ================= 2. TYPING HEADER ================= -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sri+Lekha+%F0%9F%91%8B;Electronics+%26+Communication+Engineer;AI%2FML+%7C+Web+Development+Enthusiast;Turning+Ideas+Into+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sri+Lekha+%F0%9F%91%8B;Electronics+%26+Communication+Engineer;Turning+Ideas+Into+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 </div>

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ================= 1. HERO BANNER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sri%20Lekha%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Enthusiast%20%7C%20Web%20Developer%20%7C%20ECE%20Undergrad&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sri%20Lekha%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%20%7C%20ECE%20Undergrade&descAlignY=62&descSize=16" />
 
 <!-- ================= 2. TYPING HEADER ================= -->
 <a href="https://git.io/typing-svg">
@@ -19,7 +19,7 @@
 class SriLekha:
     def __init__(self):
         self.name = "Sri Lekha A"
-        self.location = "Coimbatore, Tamil Nadu, India"
+        self.location = "Tiruppur, Tamil Nadu, India"
         self.degree = "B.E. Electronics and Communication Engineering"
         self.college = "V.S.B Engineering College"
 

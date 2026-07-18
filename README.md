@@ -5,7 +5,7 @@
 
 <!-- ================= 2. TYPING HEADER ================= -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sri+Lekha+%F0%9F%91%8B;Electronics+%26+Communication+Engineer;Turning+Ideas+Into+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+SriLekha+%F0%9F%91%8B;Electronics+%26+Communication+Engineer;Turning+Ideas+Into+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 </div>

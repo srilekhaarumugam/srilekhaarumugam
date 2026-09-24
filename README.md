@@ -24,7 +24,7 @@ class SriLekha:
         self.college = "V.S.B Engineering College"
 
         self.stack = {
-            "languages": ["C", "Java", "Python"],
+            "languages": ["Java", "Python"],
             "web": ["HTML", "CSS", "JavaScript", "Angular"],
             "backend_cloud": ["Firebase", "Firebase Realtime Database"],
             "tools": ["Git", "GitHub", "VS Code"]
